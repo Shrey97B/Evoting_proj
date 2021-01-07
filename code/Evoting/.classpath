@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="E:/Software Setup/mysql-connector-java-8.0.22/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="lib" path="E:/Software Setup/javax.mail.jar"/>
+	<classpathentry kind="lib" path="E:/Software Setup/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Software Setup/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="E:/Software Setup/jfreechart-1.0.19/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
