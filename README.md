@@ -1,6 +1,6 @@
 # E-Voting Platform
 
-E-voting is a desktop application based on Java Swing that provides a platform for organizing elections and can be used easily to work with a campus based election system consisting of different organizers, voters specific to those organizers and the over collaborative process. The project uses MySQL database for setting up the necessary data. It also utilizes SMTP based OTP verification for registration and voter identity verification. The overall focus of the project is to develop a database based application using Java swing with some differences that are introduced with the nature of application.
+E-voting is a desktop application based on Java Swing that provides a platform for organizing elections and can be used easily to work with a campus based election system consisting of different organizers, voters specific to those organizers and the overall collaborative process. The project uses MySQL database for setting up the necessary data. It also utilizes SMTP based OTP verification for registration and voter identity verification. The overall focus of the project is to develop a database based application using Java swing with some differences that are introduced with the nature of application.
 The application works with the help of three types of users: User (Normal users which could be candidates and voters), Election Organizers and Administrators.
 
 1. **Admin Module**
